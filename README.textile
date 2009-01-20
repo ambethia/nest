@@ -1,0 +1,3 @@
+h1. Nest
+
+Nest is a collection of simple "twitter":http://twitter.com clients written using a number of different ruby GUI frameworks. These are a learning project and aren't intended to take the place of your favorite desktop twitter apps.
