@@ -1,4 +1,4 @@
-Shoes.app :title => "Nest",
+Shoes.app :title => "Chick",
   :width => 310, :height => 500, :resize => false do
   
   stack :width => 120, :margin_left => 90 do
