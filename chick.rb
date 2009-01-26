@@ -28,6 +28,9 @@ Shoes.app :title => "Chick",
     @twitter.verify_credentials
     @timeline = timeline
     new_tweet
+    every 60 do
+      update_timeline
+    end
   rescue Twitter::CantConnect => e
     @login = login
     alert(e)
