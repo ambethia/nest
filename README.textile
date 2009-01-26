@@ -1,3 +1,16 @@
 h1. Nest
 
 Nest is a collection of simple "twitter":http://twitter.com clients written using a number of different ruby GUI frameworks. These are a learning project and aren't intended to take the place of your favorite desktop twitter apps.
+
+h2. Chicks
+
+Each client, or "chick" is in it's own separate branch of this repository.
+
+h3. Shoes
+
+The first chick is built on "why's":http://whytheluckystiff.net/ "Shoes":http://shoooes.net toolkit.
+
+http://github.com/ambethia/nest/tree/shoes
+
+!http://github.com/ambethia/nest/blob/9ff15b268458d95a69a5d88f976d5db0eb3832f6/images/shoes.png(Shoes)!:http://github.com/ambethia/nest/tree/shoes
+
