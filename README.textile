@@ -12,5 +12,5 @@ The first chick is built on "why's":http://whytheluckystiff.net/ "Shoes":http://
 
 http://github.com/ambethia/nest/tree/shoes
 
-!http://github.com/ambethia/nest/blob/9ff15b268458d95a69a5d88f976d5db0eb3832f6/images/shoes.png(Shoes)!:http://github.com/ambethia/nest/tree/shoes
+!http://github.com/ambethia/nest/raw/9ff15b268458d95a69a5d88f976d5db0eb3832f6/images/shoes.png(Shoes)!:http://github.com/ambethia/nest/tree/shoes
 
