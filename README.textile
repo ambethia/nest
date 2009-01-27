@@ -1,0 +1,5 @@
+= Chick Tk
+
+== On OS X
+
+Although OS X (Leopard) comes with Tk/Tcl, it's an older version, 8.4.7 or some-such. I've used a more recent version here, 8.5.5, from "ActiveState":http://www.activestate.com/activetcl/
